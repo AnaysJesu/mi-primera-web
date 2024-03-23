@@ -1,0 +1,29 @@
+h1{
+    /*esto solo cambia el color*/
+    color:lightpink;
+    text-align: center;
+
+
+}
+
+h2{
+    color:lightpink;
+    text-align: center;
+
+
+
+}
+
+img{
+width: 500px;
+
+
+
+}
+*
+{
+   
+    margin: 0;
+    padding: 0;
+
+}
